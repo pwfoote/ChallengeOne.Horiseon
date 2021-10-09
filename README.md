@@ -1,5 +1,5 @@
 # Challenge One Horiseon Code Refactor
-This is a code refactoring project for my coding bootcamp where the goal was to update the faux website's accesbility wihtin theh HTML file, while also restructuring and reorganizing HTML and CSS elements.
+This is a code refactoring project for my coding bootcamp where the goal was to update the faux website's accesbility, while also restructuring and reorganizing HTML and CSS elements.
 
 ## Updated Accesibility 
     
@@ -8,14 +8,16 @@ This is a code refactoring project for my coding bootcamp where the goal was to 
 
 ## HTML and CSS Refactoring
 
-    -Restructered the navgigation bar into container and linked buttons to services section in main body.
+    - Restructered the navgigation bar into container and linked buttons to services section in main body.
 
-    -Reorganized Services Section by changing multiple <div> containters into <section> containers. 
+    - Reorganized Services Section by changing multiple <div> containters into <section> containers. 
         -Reasigned children to have appropriate indicators to sync with with stylesheet.
 
-    -Placed Benefits Section into <aside> container and reassigned children elements to have appropriate indicators with stylesheet.
+    - Placed Benefits Section into <aside> container and reassigned children elements to have appropriate indicators with stylesheet.
     
-    -Consolidated CSS indicators to work for multple HTML elements to give stylsheet cleaner organization.
+    - Consolidated CSS selectors and properties to work for multple HTML elements to give stylsheet cleaner organization.
 
-
-
+## Credits
+Original Author:
+    - Xandromus
+    - Github: https://github.com/coding-boot-camp/urban-octo-telegram
