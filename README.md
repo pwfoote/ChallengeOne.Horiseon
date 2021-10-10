@@ -23,14 +23,11 @@ Original Author:
     - Github: https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## ScreenShots
-[!screenshot]
-(/assets/images/HoriseonScreenShot-1.png)
+[!screenshot](/assets/images/HoriseonScreenShot-1.png)
 
-[!screenshot]
-(/assets/images/HoriseonScreenShot-2.png)
+[!screenshot](/assets/images/HoriseonScreenShot-2.png)
 
-[!screenshot]
-(/assets/images/HoriseonScreenShot-3.png)
+[!screenshot](/assets/images/HoriseonScreenShot-3.png)
 
 ## URL
     - https://pwfoote.github.io/CodingBootcamp-ChallengeOne/
