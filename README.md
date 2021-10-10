@@ -24,13 +24,13 @@ Original Author:
 
 ## ScreenShots
 [!screenshot]
-(/assets/images/HoriseonScreenShot-1)
+(/assets/images/HoriseonScreenShot-1.png)
 
 [!screenshot]
-(/assets/images/HoriseonScreenShot-2)
+(/assets/images/HoriseonScreenShot-2.png)
 
 [!screenshot]
-(/assets/images/HoriseonsScreenShot-3)
+(/assets/images/HoriseonScreenShot-3.png)
 
 ## URL
     - https://pwfoote.github.io/CodingBootcamp-ChallengeOne/
